@@ -153,7 +153,7 @@ nixos-hyprland/
 ### 1. Clone
 
 ```bash
-git clone https://github.com/khushkarangill681/nixos-hyprland.git
+git clone https://github.com/khush-zxc/nixos-hyprland.git
 cd nixos-hyprland
 ```
 
